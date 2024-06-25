@@ -2,9 +2,3 @@
 # 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
 ################################################################################
 
-*.vsidx
-/.vs/web/v17/.wsuo
-/.vs/web/v17/DocumentLayout.json
-/.vs/ProjectSettings.json
-/.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
